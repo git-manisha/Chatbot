@@ -139,8 +139,7 @@ langgraph_chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone git@github.com:git-manisha/Chatbot.git
 ```
 
 ### 2. Create a virtual environment
